@@ -1,0 +1,10 @@
+
+in2reg       Pinsname: \mMIPS_memdev_dev_buffer_reg[18] /D, Slack value :0.139, fromClk:       CLK, toClk:       CLK
+
+reg2reg       Pinsname: \uAPB_BUS_rwdata_reg_reg[16] /D, Slack value :0.090, fromClk:       CLK, toClk:       CLK
+
+reg2out       Pinsname:         dev_dout[26], Slack value :0.101, fromClk:       CLK, toClk:       CLK
+
+==========================
+
+GroupType: Standard, View:bc_view, Hold

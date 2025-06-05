@@ -1,0 +1,25 @@
+Density          [%] : 0.8
+Switching power [mW] : 0.23428069
+Internal power  [mW] : 10.94493367
+Total power     [mW] : 11.18110335
+Clock power     [mW] : 0.275
+Instances            : 30236
+WNS setup       [ns] : 1.895
+WNS hold        [ns] : 0.087
+Area          [um^2] : 172482.9120
+Clock period    [ns] : 10.005
+Delay           [ns] : 8.026
+Quality       [Norm] : 1.54863E-25
+Metal layer 1   [um] : 0.0000
+Metal layer 2   [um] : 90173.6200
+Metal layer 3   [um] : 100391.1600
+Metal layer 4   [um] : 106262.8500
+Metal layer 5   [um] : 75188.5100
+Metal layer 6   [um] : 66225.7300
+Metal layer 7   [um] : 16172.8000
+Metal layer 8   [um] : 3062.2700
+Metal layer 9   [um] : 46.5800
+Metal layer 10  [um] : 0.0000
+Metal layer 11  [um] : 0.0000
+
+Q  = (Total power * delay) * Clock period * Area

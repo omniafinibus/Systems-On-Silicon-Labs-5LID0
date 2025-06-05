@@ -1,0 +1,6 @@
+# File: cds.lib
+
+#define GPDK045 /home/sos/gpdk/45nm/lan/flow/t1u1/reference_libs/GPDK045
+
+INCLUDE ${GPDK045}/../cds.lib
+DEFINE work ./work

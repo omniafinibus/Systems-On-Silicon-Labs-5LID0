@@ -1,0 +1,25 @@
+extraction_setup \
+ -technology_layer_map \
+ Poly POLYCIDE \
+ Metal1 METAL_1 \
+ Metal2 METAL_2 \
+ Metal3 METAL_3 \
+ Metal4 METAL_4 \
+ Metal5 METAL_5 \
+ Metal6 METAL_6 \
+ Metal7 METAL_7 \
+ Metal8 METAL_8 \
+ Metal9 METAL_9 \
+ Metal10 METAL_10 \
+ Metal11 METAL_11 \
+ Cont CONT \
+ Via1 VIA_1 \
+ Via2 VIA_2 \
+ Via3 VIA_3 \
+ Via4 VIA_4 \
+ Via5 VIA_5 \
+ Via6 VIA_6 \
+ Via7 VIA_7 \
+ Via8 VIA_8 \
+ Via9 VIA_9 \
+ Via10 VIA_10

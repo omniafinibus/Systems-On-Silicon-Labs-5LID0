@@ -1,0 +1,2 @@
+create_relative_floorplan -ref_type core_boundary -orient R90 -horizontal_edge_separate {1  0  1} -vertical_edge_separate {0  0  0} -place imem/u_mem -ref mMIPS_system
+create_relative_floorplan -ref_type core_boundary -orient MX90 -horizontal_edge_separate {1  0  1} -vertical_edge_separate {2  0  2} -place dmem/u_mem -ref mMIPS_system

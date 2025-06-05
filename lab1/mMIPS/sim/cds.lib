@@ -1,0 +1,7 @@
+# File: cds.lib
+
+#define GPDK045 /home/sos/gpdk/45nm/lan/flow/t1u1/reference_libs/GPDK045
+#define GPDK045 /opt/tools/technology/cadence/gpdk/45nm
+
+INCLUDE $GPDK045/gsclib045_svt_v4.4/gsclib045/cds.lib
+DEFINE work ./work

@@ -1,0 +1,10 @@
+
+in2reg       Pinsname: \mMIPS_mem_alu_result_out_reg[8] /D, Slack value :8.432, fromClk:       CLK, toClk:       CLK
+
+reg2reg       Pinsname: \mMIPS_hi_out_reg[31] /D, Slack value :1.773, fromClk:       CLK, toClk:       CLK
+
+reg2out       Pinsname:         dev_send_eop, Slack value :3.977, fromClk:       CLK, toClk:       CLK
+
+==========================
+
+GroupType: Standard, View:wc_view, Setup
